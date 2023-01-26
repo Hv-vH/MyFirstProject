@@ -4,6 +4,6 @@
 
 int main()
 {
-	printf("我是%s",NAME);
+	printf("我是%s\n",NAME);
 	return 0;
 }
